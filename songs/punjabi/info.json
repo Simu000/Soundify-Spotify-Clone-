@@ -1,0 +1,23 @@
+
+{
+  "title": "Punjabi Hits",
+  "description": "Top Punjabi songs playlist",
+  "songs": [
+    {
+      "name": "Bijlee Bijlee.mp3",
+      "artist": "Harrdy Sandhu"
+    },
+    {
+      "name": "Love Ya.mp3",
+      "artist": "Diljit Dosanjh"
+    },
+    {
+      "name": "Sheesha.mp3",
+      "artist": "Karan Aujla"
+    },
+    {
+      "name": "Wavy.mp3",
+      "artist": "Karan Aujla"
+    }
+  ]
+}
